@@ -1,8 +1,8 @@
-- 🙋🏽‍♀️ Hi, I’m Letícia Pinho
+## 🙋🏽‍♀️ Hi, I’m Letícia Pinho
 - 🌇 Based in São Paulo - SP, Brazil
 - 👀 I'm interested in data engineering, machine learning and artificial intelligence.
 - 🎓 I have a degree in Social Sciences at USP and Systems Analysis and Development at FATEC (finishing). I'm currently part of the Master's program in Computer Science at USP.
-- 👩🏽‍💻 Currently learning Natural Language Processing
+- 👩🏽‍💻 Learning Natural Language Processing and many other amazing things =D
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=leticiapinho.leticiapinho)
 [![Github](https://img.shields.io/github/followers/leticiapinho?label=Follow&style=social)](https://github.com/leticiapinho)

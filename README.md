@@ -28,11 +28,12 @@
  </p>        
 
           
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiapinho&show_icons=true&theme=tokyonight)
+<!---![GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiapinho&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leticiapinho&theme=tokyonight)
 
 ![Snake animation](https://github.com/leticiapinho/leticiapinho/blob/output/github-contribution-grid-snake.svg)
+--->
 
 <!---
 leticiapinho/leticiapinho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
